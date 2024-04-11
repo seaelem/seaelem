@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seaelem
 - 👀 I’m interested in engineering, marine tech and data science
-- 🌱 I’m currently extending my knowledge of Python data science and also control engineering
+- 🌱 I mostly use Python as an engineer to analyse data, write workflow helpers & API scripting.
 
 <!---
 seaelem/seaelem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
